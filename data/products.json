@@ -1,0 +1,23 @@
+[
+  {
+    "id": "wolf-head-001",
+    "name": "Tête de Loup",
+    "priceEUR": 120,
+    "image": "/images/wolf.jpg",
+    "description": "Sculpture en chêne – pièce unique."
+  },
+  {
+    "id": "raven-002",
+    "name": "Tête de Corbeau",
+    "priceEUR": 90,
+    "image": "/images/raven.jpg",
+    "description": "Sculpture expressive, finition cire d'abeille."
+  },
+  {
+    "id": "shark-003",
+    "name": "Requin",
+    "priceEUR": 150,
+    "image": "/images/shark.jpg",
+    "description": "Sculpture élégante, bois flotté."
+  }
+]
